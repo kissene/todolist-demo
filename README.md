@@ -1,4 +1,4 @@
-# 04-todolist
+# vue3 demo todolist
 
 ## Project setup
 ```
